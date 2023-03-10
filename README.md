@@ -1,3 +1,5 @@
+原作者:Kurisu-Preston  此倉庫僅自用備份,請支持原作者
+
 自用,不含模型    
 原作者：https://github.com/innnky/so-vits-svc  
 目前仅提供mea和aqua两种音色，采样率48k，对显存要求较高  
