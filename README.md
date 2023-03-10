@@ -1,4 +1,4 @@
-原作者:Kurisu-Preston  此倉庫僅自用備份,請支持原作者
+原倉庫撰寫者:Kurisu-Preston  此倉庫僅自用備份,請支持Kurisu-Preston
 
 自用,不含模型    
 原作者：https://github.com/innnky/so-vits-svc  
